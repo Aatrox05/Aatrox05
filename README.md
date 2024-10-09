@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aatrox05
 - 👀 I’m interested in data science, cyberseurityand DevOps.
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning next.js ,react.
 - 💞️ I’m looking to collaborate on web application
 - 📫 How to reach me - Aatrox8483@gmail.com
 
